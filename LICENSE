@@ -1,0 +1,13 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Raghu Vintha
+
+The prose and diagrams in this repository are licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+Any code snippet included for illustration is additionally available under the MIT
+licence. Attribution: Raghu Vintha, with a link to this repository.
+
+This repository is a reference, not a library. There is no package, no API and no
+versioned release. It documents a pattern so that an engineer can read it and copy what
+applies.
