@@ -109,7 +109,9 @@ faithful explanation of the agent's actions."
 
 ---
 
-## Where the gate sits, by domain
+<a id="where-the-gate-sits-by-domain"></a>
+
+## Approval gates by domain
 
 Illustrative only. These are not engagements; they are four places the same shape shows up.
 
@@ -155,6 +157,9 @@ link back.
 Prose and diagrams: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Any code
 snippet: MIT. Attribution to Raghu Vintha, with a link to the source repository.
 
+This is a **reference, not a library.** There is no package to install, no API and no
+versioned release; it documents a pattern so an engineer can read it and copy what applies.
+
 ---
 
-*Raghu Vintha — CTO, SMAARiX. Singapore. [raghuvintha.com](https://raghuvintha.com)*
+*Raghu Vintha — Singapore. [raghuvintha.com](https://raghuvintha.com)*
